@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sparsh989
-- 👀 I’m interested in backend development
+- 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Nestjs
-- 💞️ I’m looking to collaborate on Opem Source Projects
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me ishunitk989@gmail.com
 
 <!---
